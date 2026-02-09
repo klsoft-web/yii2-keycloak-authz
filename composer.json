@@ -1,0 +1,24 @@
+{
+    "name": "klsoft/yii2-keycloak-authz",
+    "type": "library",
+    "description": "The package provides Keycloak authorization for the web service APIs of Yii 2.",
+    "homepage": "https://github.com/klsoft-web/yii2-keycloak-authz",
+    "keywords": [
+        "authorization",
+        "authorisation",
+        "jwt",
+        "keycloak",
+        "api",
+        "yii2"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0",
+        "yiisoft/yii2": "~2.0.45"
+    },
+    "autoload": {
+        "psr-4": {
+            "Klsoft\\Yii2KeycloakAuthz\\": "src"
+        }
+    }
+}
