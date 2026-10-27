@@ -5,7 +5,7 @@
  See also:
 
  -  [YII2-JWT-AUTH](https://github.com/klsoft-web/yii2-jwt-auth) - The package provides a [Yii 2](https://www.yiiframework.com) authentication method based on a JWT token
- -  [PHP-KEYCLOAK-CLIENT](https://github.com/klsoft-web/php-keycloak-client) - A PHP library that can be used to secure web applications with Keycloak
+ -  [KEYCLOAK-CLIENT](https://github.com/klsoft-web/keycloak-client) - A PHP library that can be used to secure web applications with Keycloak
 
 ## Requirement
 
